@@ -19,7 +19,7 @@
   - [Azure SOC Honeynet Project](https://github.com/as-turner/Azure-SOC-Honeynet-Project)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/as-turner/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/as-turner/azure-network-protocols)
-  - [Azure Cloud Detection Project (Part 1)](https://github.com/as-turner/azure-cloud-detection)
+  - [Azure Cloud Detection Project (Part 1)](https://github.com/as-turner/azure-cloud-detection-Part-1-)
   - [Azure Cloud Detection (Part 2: Getting Data into Sentinel)](https://github.com/as-turner/getting-data-into-sentinel)
   - [Sentinel Lab Failed RDP Login](https://github.com/as-turner/Sentinel-Lab-Failed-Login)
   - [Virtual Networking Deploying Virtual Machine](https://github.com/as-turner/Virtual-Networking-Deploying-Virtual-Machines)
