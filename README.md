@@ -16,16 +16,16 @@
 <summary><img width="200" alt="Microsoft Azure Logo" src="https://github.com/0xbythesecond/0xbythesecond/assets/23303634/4efd69b2-7308-40cb-b48d-5e726610d472"/>
 </summary>
 	
-  - [Azure SOC Honeynet Project](https://github.com/0xbythesecond/Azure-SOC-Honeynet-Project)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/0xbythesecond/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/0xbythesecond/azure-network-protocols)
-  - [Azure Cloud Detection Project (Part 1)](https://github.com/0xbythesecond/azure-cloud-detection)
-  - [Azure Cloud Detection (Part 2: Getting Data into Sentinel)](https://github.com/0xbythesecond/getting-data-into-sentinel)
-  - [Sentinel Lab Failed RDP Login](https://github.com/0xbythesecond/Sentinel-Lab-Failed-Login)
-  - [Virtual Networking Deploying Virtual Machine](https://github.com/0xbythesecond/Virtual-Networking-Deploying-Virtual-Machines)
-  - [Azure Firewall](https://github.com/0xbythesecond/Azure-Firewall)
-  - [Securing Azure SQL Database](https://github.com/0xbythesecond/Securing-Azure-SQL-Database/)
-  - [Azure Monitor](https://github.com/0xbythesecond/Azure-Monitor) 
+  - [Azure SOC Honeynet Project](https://github.com/as-turner/Azure-SOC-Honeynet-Project)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/as-turner/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/as-turner/azure-network-protocols)
+  - [Azure Cloud Detection Project (Part 1)](https://github.com/as-turner/azure-cloud-detection)
+  - [Azure Cloud Detection (Part 2: Getting Data into Sentinel)](https://github.com/as-turner/getting-data-into-sentinel)
+  - [Sentinel Lab Failed RDP Login](https://github.com/as-turner/Sentinel-Lab-Failed-Login)
+  - [Virtual Networking Deploying Virtual Machine](https://github.com/as-turner/Virtual-Networking-Deploying-Virtual-Machines)
+  - [Azure Firewall](https://github.com/as-turner/Azure-Firewall)
+  - [Securing Azure SQL Database](https://github.com/as-turner/Securing-Azure-SQL-Database/)
+  - [Azure Monitor](https://github.com/as-turner/Azure-Monitor) 
 
 
 <details closed>
