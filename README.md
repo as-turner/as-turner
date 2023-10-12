@@ -20,7 +20,7 @@
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/as-turner/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/as-turner/azure-network-protocols)
   - [Azure Cloud Detection Project (Part 1)](https://github.com/as-turner/azure-cloud-detection-Part-1-)
-  - [Azure Cloud Detection (Part 2: Getting Data into Sentinel)](https://github.com/as-turner/getting-data-into-sentinel)
+  - [Azure Cloud Detection (Part 2: Getting Data into Sentinel)](https://github.com/as-turner/Azure-Cloud-Detection-Part-2-Getting-Data-into-Sentinel)
   - [Sentinel Lab Failed RDP Login](https://github.com/as-turner/Sentinel-Lab-Failed-Login)
   - [Virtual Networking Deploying Virtual Machine](https://github.com/as-turner/Virtual-Networking-Deploying-Virtual-Machines)
   - [Azure Firewall](https://github.com/as-turner/Azure-Firewall)
