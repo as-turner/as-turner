@@ -29,7 +29,7 @@
 
 
 <details closed>
- <summary><h3> 👨‍💼 I am a work in process</h3></summary>
+ <summary><h3> I am a constant work in process</h3></summary>
  
 
 - 🎓 I’m a graduate of the `Course Careers` Information Technology course
