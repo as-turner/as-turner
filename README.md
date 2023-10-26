@@ -28,18 +28,7 @@
   - [Azure Monitor](https://github.com/as-turner/Azure-Monitor) 
 
 
-<details closed>
-
- 
- <summary><h3> I am a constant work in process</h3></summary>
- 
-
-- 🎓 I’m a graduate of the `Course Careers` Information Technology course
-- 🧠 Continuously learning `Azure, Linux, HTML, CSS, and Javascript.
-
-
------
-
+----
 ## 🛠️ Skills
 
 ### Cloud Computing
