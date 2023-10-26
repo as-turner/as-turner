@@ -38,9 +38,27 @@
 - 🧠 Continuously learning `Azure, Linux, HTML, CSS, and Javascript.
 
 
-<h2>🤳Connect with me:</h2>
+-----
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+## 🛠️ Skills
+
+### Cloud Computing
+
+![Microsoft Azure](https://img.shields.io/badge/microsoft_azure-0078D4?style=for-the-badge&logo=MicrosoftAzure&logoColor=white)
+
+### Operating Systems
+
+![Windows 10](https://img.shields.io/badge/windows_10-0078D6?style=for-the-badge&logo=Windows10&logoColor=white)
+![Apple](https://img.shields.io/badge/MacOs-000000?style=for-the-badge&logo=Apple&logoColor=white)
+![Googlechrome](https://img.shields.io/badge/ChromeOs-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
+
+### Computer Tools
+
+![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white)
 
 
-[linkedin]: https://linkedin.com/in/anthony-turner-55a5a064/
+-----
+
+# Connect with me
+
+[![linkedin](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/anthony-turner-55a5a064/)
